@@ -12,3 +12,8 @@
 
 1. yarn install
 2. yarn dev
+
+
+# Port
+
+1. http://localhost:3333
